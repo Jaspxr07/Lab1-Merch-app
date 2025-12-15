@@ -1,0 +1,120 @@
+body {
+    background-color: #FEECD1;
+    font-family: Atkinson Hyperlegible;
+}
+.indexh div {
+    display: flex;
+    justify-content: center;
+    padding-top: 3em;
+}
+.indexh img {
+    width: 90%;
+    margin-bottom: 1em;
+}
+.indexm div h1 {
+    font-size: 4em;
+    text-align: center;
+}
+
+.indexm div h2 {
+    text-align: center;
+    font-size: 2.4em;
+    max-width: 100%;
+}
+
+.indexm div p {
+    font-size: 1.2em;
+    text-align: left;
+    margin: 20px;
+    max-width: 100%;
+}
+
+.indexm div a {
+    text-decoration: none;
+    color: #1C1C1C;
+    background-color: #A874D2;
+    border-radius: 50px;
+    padding: 30px;
+    font-weight: bolder;
+    font-size: 3em;
+    display: flex;
+    justify-content: center;
+    width: 250px
+}
+
+.volgende {
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.homeh  {
+    margin-top: 50px;
+}
+.homeh h1 {
+    color: #A874D2;
+    font-size: 1.8em;
+    margin-left: 10px;
+    font-weight: bold;
+
+}
+.homeh img {
+    position: absolute;
+    top: 80px;
+    left: 250px;
+    z-index: -1;
+}
+.samenbrengen {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.samenbrengen p {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: -30px;
+}
+.samenbrengen img {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.activiteiten {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.activiteiten p {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-top: -10px;
+}
+.activiteiten img {
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-top: 0px;
+}
+.links2 {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+}
+
+.links2 a {
+    text-decoration: none;
+    display: flex;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    color: #1C1C1C;
+    background-color: #A874D2;
+    border-radius: 50px;
+    font-weight: bold;
+    font-size: 1.2em;
+    place-items: center;
+    justify-content: center;
+}
+
