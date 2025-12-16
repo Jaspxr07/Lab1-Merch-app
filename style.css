@@ -294,3 +294,7 @@ body {
    justify-content: center;
    margin-top: -18%;
 }
+
+html, body {
+    overflow-x: hidden;
+}
