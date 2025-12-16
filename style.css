@@ -1,301 +1,295 @@
 a {
-    color: #FFFFFF;
+  color: #ffffff;
 }
 body {
-    background-color: #FEECD1;
-    font-family: Atkinson Hyperlegible;
-    color: #1C1C1C;
+  background-color: #feecd1;
+  font-family: Atkinson Hyperlegible;
+  color: #1c1c1c;
 }
 .indexh div {
-    display: flex;
-    justify-content: center;
-    padding-top: 3em;
+  display: flex;
+  justify-content: center;
+  padding-top: 3em;
 }
 .indexh img {
-    width: 90%;
-    margin-bottom: 1em;
+  width: 90%;
+  margin-bottom: 1em;
 }
 .indexm div h1 {
-    font-size: 4em;
-    text-align: center;
+  font-size: 4em;
+  text-align: center;
 }
 
 .indexm div h2 {
-    text-align: center;
-    font-size: 2.4em;
-    max-width: 100%;
+  text-align: center;
+  font-size: 2.4em;
+  max-width: 100%;
 }
 
 .indexm div p {
-    font-size: 1.2em;
-    text-align: left;
-    margin: 20px;
-    max-width: 100%;
+  font-size: 1.2em;
+  text-align: left;
+  margin: 20px;
+  max-width: 100%;
 }
 
 .indexm div a {
-    text-decoration: none;
-    
-    background-color: #A874D2;
-    border-radius: 50px;
-    padding: 30px;
-    font-weight: bolder;
-    font-size: 3em;
-    display: flex;
-    justify-content: center;
-    width: 250px
+  text-decoration: none;
+
+  background-color: #a874d2;
+  border-radius: 50px;
+  padding: 30px;
+  font-weight: bolder;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
+  width: 250px;
 }
 
 .volgende {
-    display: flex;
-    justify-content: center;
-    margin-top: 5em;
+  display: flex;
+  justify-content: center;
+  margin-top: 5em;
 }
 
-.homeh  {
-    margin-top: 8%;
+.homeh {
+  margin-top: 8%;
 }
 .homeh h1 {
-    color: #A874D2;
-    font-size: 1.8em;
-    margin-left: 3%;
-    font-weight: bold;
-
+  color: #a874d2;
+  font-size: 1.8em;
+  margin-left: 3%;
+  font-weight: bold;
 }
 .homeh img {
-    position: absolute;
-    top: 60px;
-    right: 1%;
-    max-width: 90%;
-    z-index: -1;
+  position: absolute;
+  top: 60px;
+  right: 1%;
+  max-width: 90%;
+  z-index: -1;
 }
 .samenbrengen {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 .samenbrengen p {
-    text-align: center;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-top: -30px;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: -30px;
 }
 .samenbrengen img {
-    margin-left: 15%;
-    margin-right: 15%;
-    margin-top: 10%;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 10%;
 }
 .activiteiten {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }
 .activiteiten p {
-    text-align: center;
-    font-size: 1.2em;
-    font-weight: bold;
-    margin-top: -4%;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: -4%;
 }
 .activiteiten img {
-     margin: 0 auto;
-    max-width: 80%;
+  margin: 0 auto;
+  max-width: 80%;
 }
 .links2 {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
-    justify-content: center;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
 }
 
 .links2 a {
-    text-decoration: none;
-    display: flex;
-    width: 150px;
-    height: 60px;
-    text-align: center;
-    
-    background-color: #A874D2;
-    border-radius: 50px;
-    font-weight: bold;
-    font-size: 1.2em;
-    place-items: center;
-    justify-content: center;
+  text-decoration: none;
+  display: flex;
+  width: 150px;
+  height: 60px;
+  text-align: center;
+
+  background-color: #a874d2;
+  border-radius: 50px;
+  font-weight: bold;
+  font-size: 1.2em;
+  place-items: center;
+  justify-content: center;
 }
 .merchnav div {
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    margin-top: 13%;
-    margin-left: 8%;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  margin-top: 13%;
+  margin-left: 8%;
 }
 .logo1 {
-    width: 200px;
+  width: 200px;
 }
 .cart {
-    position: absolute;
-    top: 6%;
-    right: 6%;
+  position: absolute;
+  top: 6%;
+  right: 6%;
 }
 .items div {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 .items {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    margin-top: 13%;
-    
-    
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 13%;
 }
 .winkelmand {
-    text-decoration: none;
-    color: #FFFFFF;
-    background-color: #A874D2;
-    padding: 4%;
-    border-radius: 25px;
-    width: 140px;
-    text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #a874d2;
+  padding: 4%;
+  border-radius: 25px;
+  width: 140px;
+  text-align: center;
 }
 .items div {
-    margin-bottom: 10%;
+  margin-bottom: 10%;
 }
 .items p {
-    margin-top: 6px;
-    font-size: 1.2em;
-    color: #1C1C1C;
+  margin-top: 6px;
+  font-size: 1.2em;
+  color: #1c1c1c;
 }
 .homebtn {
-    text-decoration: none;
-    background-color: #A874D2;
-    border-radius: 50px;
-    padding: 4%;
-    padding-left: 8%;
-    padding-right: 8%;
-    font-weight: bolder;
-    font-size: 3em;
-    display: flex;
-    justify-content: center;
-   
-    
+  text-decoration: none;
+  background-color: #a874d2;
+  border-radius: 50px;
+  padding: 4%;
+  padding-left: 8%;
+  padding-right: 8%;
+  font-weight: bolder;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
 }
 .homebtndiv {
-   display: flex;
-   justify-content: center;
-   margin-top: 17%;
+  display: flex;
+  justify-content: center;
+  margin-top: 17%;
 }
 .items a {
-    text-decoration: none;   
-    text-align: center;
+  text-decoration: none;
+  text-align: center;
 }
 
 .knuffeltje {
-    padding-left: 17%;
-    padding-right: 17%;
+  padding-left: 17%;
+  padding-right: 17%;
 }
 .knuffeldiv {
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    margin-top: 9%;
-    text-align: center;
-    font-size: 1.1em;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 9%;
+  text-align: center;
+  font-size: 1.1em;
 }
 .knuffeldiv p {
-    margin: 0 45px 20px 45px;
+  margin: 0 45px 20px 45px;
 }
 .uitleg {
-    text-align: left;
-    
+  text-align: left;
 }
 .prijs {
-    display: flex;
-    flex-direction: row;
-    place-items: center;
-    justify-content: center;
-    gap: 80px;
-    padding-left: 45px;
-    padding-right: 45px;
-    margin-top: 50px;
+  display: flex;
+  flex-direction: row;
+  place-items: center;
+  justify-content: center;
+  gap: 80px;
+  padding-left: 45px;
+  padding-right: 45px;
+  margin-top: 50px;
 }
 .back {
-   display: flex;
-   justify-content: center;
-   margin-top: 80px; 
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
 }
 
 .back a {
-    text-decoration: none;
-    background-color: #A874D2;
-    border-radius: 50px;
-    padding: 10px;
-    padding-left: 8%;
-    padding-right: 8%;
-    font-weight: bold;
-    font-size: 3em;
-    display: flex;
-    justify-content: center;
+  text-decoration: none;
+  background-color: #a874d2;
+  border-radius: 50px;
+  padding: 10px;
+  padding-left: 8%;
+  padding-right: 8%;
+  font-weight: bold;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
 }
 
 .check {
-    display: flex;
-    background-color: #A874D2;
-    color: #A874D2;
-    width: 16%;
-    height: 16%;
-    border-radius: 5px;
-    margin-top: 15px;
-    
+  display: flex;
+  background-color: #a874d2;
+  color: #a874d2;
+  width: 16%;
+  height: 20%;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+label {
+  width: 20%;
+  height: 50px;
+}
+input {
+  width: 20%;
+  height: 50px;
 }
 .vraag {
-    color: #A874D2;
-    text-align: center;
-    margin-top: 60px;
+  color: #a874d2;
+  text-align: center;
+  margin-top: 60px;
 }
 .logo2 {
-    width: 100%;
-    
+  width: 100%;
 }
 
 .action {
-    display: flex;
-    flex-direction: row;
-    justify-content: left;
-    padding: 4%;
-    gap: 8%;
-    
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  padding: 4%;
+  gap: 8%;
 }
 .action p {
-    font-weight: bold;
+  font-weight: bold;
 }
 .dumbell1 img {
-    width: 80%;
+  width: 80%;
 }
 .dumbell1 {
-    display: flex;
-    justify-content: center;
-    position: relative;
-    top: -50px;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  top: -50px;
 }
 .homebtn1 {
-    text-decoration: none;
-    background-color: #A874D2;
-    border-radius: 50px;
-    padding: 3%;
-    padding-left: 5%;
-    padding-right: 5%;
-    font-weight: bolder;
-    font-size: 3em;
-    display: flex;
-    justify-content: center;
-    
-    
+  text-decoration: none;
+  background-color: #a874d2;
+  border-radius: 50px;
+  padding: 3%;
+  padding-left: 5%;
+  padding-right: 5%;
+  font-weight: bolder;
+  font-size: 3em;
+  display: flex;
+  justify-content: center;
 }
 .homebtndiv1 {
-   display: flex;
-   justify-content: center;
-   margin-top: -18%;
+  display: flex;
+  justify-content: center;
+  margin-top: -18%;
 }
-
-
-
