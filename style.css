@@ -253,8 +253,10 @@ body {
     margin-top: 60px;
 }
 .logo2 {
-    margin-top: 50px;
+    padding-left: 0%;
+    width: 90%;
 }
+
 .action {
     display: flex;
     flex-direction: row;
@@ -294,6 +296,8 @@ body {
    justify-content: center;
    margin-top: -18%;
 }
+
+
 
 html, body {
     overflow-x: hidden;
