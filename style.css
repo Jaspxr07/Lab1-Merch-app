@@ -64,8 +64,9 @@ body {
 }
 .homeh img {
     position: absolute;
-    top: 80px;
-    left: 250px;
+    top: 60px;
+    right: 1%;
+    max-width: 90%;
     z-index: -1;
 }
 .samenbrengen {
@@ -96,9 +97,8 @@ body {
     margin-top: -4%;
 }
 .activiteiten img {
-    margin-left: 33%;
-    margin-right: 33%;
-    margin-top: 0px;
+     margin: 0 auto;
+    max-width: 80%;
 }
 .links2 {
     display: flex;
@@ -292,5 +292,5 @@ body {
 .homebtndiv1 {
    display: flex;
    justify-content: center;
-   margin: -18%;
+   margin-top: -18%;
 }
