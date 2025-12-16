@@ -80,9 +80,9 @@ body {
     margin-top: -30px;
 }
 .samenbrengen img {
-    margin-left: 50px;
-    margin-right: 50px;
-    margin-top: 30px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10%;
 }
 .activiteiten {
     display: flex;
@@ -96,8 +96,8 @@ body {
     margin-top: -10px;
 }
 .activiteiten img {
-    margin-left: 125px;
-    margin-right: 125px;
+    margin-left: 33%;
+    margin-right: 33%;
     margin-top: 0px;
 }
 .links2 {
