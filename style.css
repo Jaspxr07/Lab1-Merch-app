@@ -253,15 +253,15 @@ body {
     margin-top: 60px;
 }
 .logo2 {
-    padding-left: 0%;
-    width: 90%;
+    width: 100%;
+    
 }
 
 .action {
     display: flex;
     flex-direction: row;
     justify-content: left;
-    padding: 5%;
+    padding: 4%;
     gap: 8%;
     
 }
@@ -299,6 +299,3 @@ body {
 
 
 
-html, body {
-    overflow-x: hidden;
-}
